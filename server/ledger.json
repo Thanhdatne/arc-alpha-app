@@ -1,0 +1,49 @@
+{
+  "credits": {
+    "0xde0828eaffc3560329ff3378a841fe736539f825": 0.196
+  },
+  "transactions": [
+    {
+      "wallet": "0xde0828eaffc3560329ff3378a841fe736539f825",
+      "type": "deposit",
+      "amount": 0.1,
+      "tx": "0xe89e42ee9120eb60f3fd25790297cde8dc6d6200cb5ab09d9fecce1dbe126c9d",
+      "createdAt": "2026-05-16T07:54:50.040Z"
+    },
+    {
+      "wallet": "0xde0828eaffc3560329ff3378a841fe736539f825",
+      "type": "deposit",
+      "amount": 0.1,
+      "tx": "0x32af6e07643624b242100e802849f23854663da75bdf1e08b667894244103702",
+      "createdAt": "2026-05-16T08:03:49.889Z"
+    },
+    {
+      "wallet": "0xde0828eaffc3560329ff3378a841fe736539f825",
+      "type": "analyze",
+      "amount": 0.001,
+      "tx": "charge-1778918934083",
+      "createdAt": "2026-05-16T08:08:54.083Z"
+    },
+    {
+      "wallet": "0xde0828eaffc3560329ff3378a841fe736539f825",
+      "type": "analyze",
+      "amount": 0.001,
+      "tx": "charge-1778918962048",
+      "createdAt": "2026-05-16T08:09:22.048Z"
+    },
+    {
+      "wallet": "0xde0828eaffc3560329ff3378a841fe736539f825",
+      "type": "analyze",
+      "amount": 0.001,
+      "tx": "charge-1778918978762",
+      "createdAt": "2026-05-16T08:09:38.762Z"
+    },
+    {
+      "wallet": "0xde0828eaffc3560329ff3378a841fe736539f825",
+      "type": "analyze",
+      "amount": 0.001,
+      "tx": "charge-1778918995752",
+      "createdAt": "2026-05-16T08:09:55.752Z"
+    }
+  ]
+}
