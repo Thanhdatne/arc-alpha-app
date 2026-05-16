@@ -33,7 +33,7 @@ declare global {
   }
 }
 
-const API_URL = "http://localhost:3001";
+const API_URL = "/api";
 const ARC_TESTNET_CHAIN_ID = "0x4CEF52";
 const ARC_TREASURY = "0xf002faea186f4084b588dd288922a36f7262ff43";
 
